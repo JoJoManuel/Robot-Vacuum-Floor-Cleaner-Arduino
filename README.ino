@@ -1,4 +1,10 @@
-// Robot-Vacuum-Floor-Cleaner-Arduino
+//AUVC has mainly two ultrasonic sensors. One of the sensor performs
+
+//The function of obstacle avoiding by comparing the left, right and forward distances, and avoids the closer obstacle path or 
+//in other words select less obstacle path, if the robot is covered with full obstacles around, then the robot will turn around.
+// The other sensor which avoid edges by measuring depth
+
+//Robot-Vacuum-Floor-Cleaner-Arduino
 //AUVC Automatic vacuum cleaning robot with UV germicidal irradiation
 //Code developed by  AKHIL JOSEPH ,ADARSH MOHAN, BASIL T ABRAHAM and EDWIN JOHNY
 //akhil.vaj@gmail.com
